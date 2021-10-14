@@ -115,15 +115,10 @@ img{
 ### LoI pooling
 
 1. Computing the coordinates of $𝑁_𝑝$ uniform spaced middle points along the line with linear interpretation.
-
-2. Calculating the feature values at those $𝑁_𝑝$ points in the backbone’s feature map using bilinear interpretation to avoid quantization artifacts. 
-   
+2. Calculating the feature values at those $𝑁_𝑝$ points in the backbone’s feature map using bilinear interpretation to avoid quantization artifacts.<br/>
    𝐶 × $𝑁_𝑝$（𝐶 is the channel dimension of the feature map from the backbone network）
-   
-3. Reducing the size of the feature vector with a 1D max pooling layer.
-
+3. Reducing the size of the feature vector with a 1D max pooling layer.<br/>
    𝐶 × $\lceil\frac{𝑁_𝑝}{s} \rceil$（𝑠 is the size of stride of the max pooling layer）
-   
 4. This vector is then flattened and returned as the output of LoI pooling layer.
 
 ---
