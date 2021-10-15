@@ -14,7 +14,7 @@ drawings:
 
 # Framework
 
-<img src="/image-20211014152118935.png" alt="image-20211014152118935" style="zoom: 50%;" />
+<img src="/public/image-20211014152118935.png" alt="image-20211014152118935" style="zoom: 50%;" />
 
 <style>
 img{
