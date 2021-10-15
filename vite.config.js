@@ -1,5 +1,6 @@
 export default {
     // github: '/slidev/'
     // local: '/dist/'
-    base: '/slidev/'
+    base: '/dist/',
+    publicDir: 'public'
 }
