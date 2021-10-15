@@ -52,11 +52,11 @@ img{
 2. For each bin, predicting whether there exists a junction inside it and its relative location inside this bin.
 3. Outputing a junction likelihood map 𝐽 and an offset map O: 
 
-<img src="/image-20211014160340711.png" alt="image-20211014160340711" style="zoom:40%;" /><img src="/image-20211014160347360.png" alt="image-20211014160347360" style="zoom:40%;" />
+<img src="/public/image-20211014160340711.png" alt="image-20211014160340711" style="zoom:40%;" /><img src="/public/image-20211014160347360.png" alt="image-20211014160347360" style="zoom:40%;" />
 
 ### Non-Maximum Suppression
 <br/>
-<img src="/image-20211014153724802.png" alt="image-20211014153724802" style="zoom:55%;" />
+<img src="/public/image-20211014153724802.png" alt="image-20211014153724802" style="zoom:55%;" />
 
 1. N(𝑏) represents the 8 nearby bins around 𝑏. 
 2. Suppressing the pixel values that are not the local maxima on the junction map. 
@@ -92,11 +92,11 @@ Sampling the lines using the predicted junctions from the junction proposal modu
 
 Let $𝑚_𝑖:= arg min_𝑗||\widehat{p_𝑖} − p_𝑗||_2$ be the index of the best matching ground truth junction for the 𝑖th junction candidates. If the ℓ2-distance between $\widehat{p_𝑖}$ and $p_{𝑚𝑖}$ is less than the threshold 𝜂, we say that the junction candidate $\widehat{p_𝑖}$ is matched.
 
-<img src="/image-20211014190033865.png" alt="image-20211014190033865" style="zoom:50%;" />
+<img src="/public/image-20211014190033865.png" alt="image-20211014190033865" style="zoom:50%;" />
 
 ---
 
-<img src="/image-20211014192027368.png" alt="image-20211014192027368" style="zoom:67%;" />
+<img src="/public/image-20211014192027368.png" alt="image-20211014192027368" style="zoom:67%;" />
 
 <style>
 img{
@@ -123,7 +123,7 @@ img{
 
 ---
 
-<img src="/image-20211014152118935.png" alt="image-20211014152118935" style="zoom: 50%;" />
+<img src="/public/image-20211014152118935.png" alt="image-20211014152118935" style="zoom: 50%;" />
 
 <style>
 img{
@@ -136,7 +136,7 @@ img{
 
 # Result 
 
-<img src="/image-20211014154138741.png" alt="image-20211014154138741" style="zoom: 58%;" />
+<img src="/public/image-20211014154138741.png" alt="image-20211014154138741" style="zoom: 58%;" />
 
 <style>
 img{
@@ -147,7 +147,7 @@ img{
 
 ---
 
-<img src="/image-20211014192342184.png" alt="image-20211014192342184" style="zoom: 50%;" />
+<img src="/public/image-20211014192342184.png" alt="image-20211014192342184" style="zoom: 50%;" />
 
 <style>
 img{
@@ -158,7 +158,7 @@ img{
 
 ---
 
-<img src="/image-20211014192500573.png" alt="image-20211014192500573" style="zoom:67%;" />
+<img src="/public/image-20211014192500573.png" alt="image-20211014192500573" style="zoom:67%;" />
 
 <style>
 img{
