@@ -55,7 +55,7 @@ ICLR(2021)
 
 ---
 
-<img src="slides.assets/image-20211111104513302.png" alt="image-20211111104513302" style="zoom: 50%;" />
+<img src="/image-20211111104513302.png" alt="image-20211111104513302" style="zoom: 50%;" />
 
 * 用 Attention 代替 CNN
 * Pre-train on large datasets
@@ -85,7 +85,7 @@ CoRR(2021)
 
 ---
 
-<img src="slides.assets/image-20211111105153514.png" alt="image-20211111105153514" style="zoom:80%;" />
+<img src="/image-20211111105153514.png" alt="image-20211111105153514" style="zoom:80%;" />
 
 * Window Attention
 * Hierarchical
@@ -100,9 +100,9 @@ img{
 
 ---
 
-<img src="slides.assets/image-20211111111304155.png" alt="image-20211111111304155" style="zoom: 40%;" />
+<img src="/image-20211111111304155.png" alt="image-20211111111304155" style="zoom: 40%;" />
 <br/><br/>
-<img src="slides.assets/image-20211111111329850.png" alt="image-20211111111329850" style="zoom: 40%;" />
+<img src="/image-20211111111329850.png" alt="image-20211111111329850" style="zoom: 40%;" />
 
 <style>
 img{
@@ -113,8 +113,8 @@ img{
 ---
 
 
-<img src="slides.assets/image-20211111110759961.png" alt="image-20211111110759961" style="zoom:50%;" />
-<img src="slides.assets/image-20211111110956981.png" alt="image-20211111110956981" style="zoom:50%;" />
+<img src="/image-20211111110759961.png" alt="image-20211111110759961" style="zoom:50%;" />
+<img src="/image-20211111110956981.png" alt="image-20211111110956981" style="zoom:50%;" />
 
 
 <style>
@@ -141,7 +141,7 @@ NeurIPS(2021)
 
 ---
 
-<img src="slides.assets/image-20211111112921919.png" alt="image-20211111112921919" style="zoom: 60%;" />
+<img src="/image-20211111112921919.png" alt="image-20211111112921919" style="zoom: 60%;" />
 
 * 全局信息: AdaptivelyDilatedSplitting + Glance Branch
 * 局部信息: Gaze Branch
@@ -154,7 +154,7 @@ img{
 
 ---
 
-<img src="slides.assets/image-20211111112859682.png" alt="image-20211111112859682" style="zoom:50%;" />
+<img src="/image-20211111112859682.png" alt="image-20211111112859682" style="zoom:50%;" />
 
 <style>
 img{
@@ -166,7 +166,7 @@ img{
 
 # Comparison
 
-<img src="slides.assets/image-20211111114047039.png" alt="image-20211111114047039" style="zoom:53%;" />
+<img src="/image-20211111114047039.png" alt="image-20211111114047039" style="zoom:53%;" />
 
 <style>
 img{
