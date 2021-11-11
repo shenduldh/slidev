@@ -1,6 +1,13 @@
 export default {
-    // github: '/slidev/'
-    // local: '/dist/'
+    //   == default ==
+    // base: '/',
+    //   == dev ==
+    // base: '/',
+    //   == export ==
+    // base: '/',
+    //   == local build ==
+    // base: '/dist/',
+    //   == github build ==
     base: '/slidev/',
     publicDir: 'public'
 }
