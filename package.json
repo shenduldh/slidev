@@ -1,4 +1,5 @@
 {
+	"name": "slidev",
 	"private": true,
 	"scripts": {
 		"build": "slidev build",
@@ -10,5 +11,7 @@
 		"@slidev/theme-default": "*",
 		"@slidev/theme-seriph": "*"
 	},
-	"name": "slidev"
+	"devDependencies": {
+		"playwright-chromium": "^1.16.3"
+	}
 }
