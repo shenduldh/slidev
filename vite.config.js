@@ -10,5 +10,5 @@ export default {
     //   == github build ==
     base: '/slidev/',
     publicDir: 'public'
-    // deploy 1
+    // deploy 2
 }
