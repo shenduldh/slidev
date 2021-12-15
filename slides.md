@@ -224,6 +224,8 @@ img{
 
 <img src="/image-20211215190835861.png" alt="image-20211215190835861" style="zoom: 62%;" />
 
+<ShowImageByBtn style="position: absolute; top: 50px; right: 60px" imgSrc="/image-20211215211426854.png" btnName="Detr"/>
+
 <style>
 img{
   margin: 0 auto;
