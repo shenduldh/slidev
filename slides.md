@@ -210,18 +210,6 @@ img{
 
 ---
 
-<img src="/image-20211215190158306.png" alt="image-20211215190158306" style="zoom: 55%;" />
-
-<style>
-img{
-  margin: 0 auto;
-  margin-top: -40px;
-  box-shadow: 0 0 6px 2px #eee;
-}
-</style>
-
----
-
 <img src="/image-20211215190835861.png" alt="image-20211215190835861" style="zoom: 62%;" />
 
 <ShowImageByBtn style="position: absolute; top: 50px; right: 60px" imgSrc="/slidev/image-20211215211426854.png" btnName="Detr"/>
@@ -230,6 +218,18 @@ img{
 img{
   margin: 0 auto;
   margin-top: -20px;
+  box-shadow: 0 0 6px 2px #eee;
+}
+</style>
+
+---
+
+<img src="/image-20211215190158306.png" alt="image-20211215190158306" style="zoom: 55%;" />
+
+<style>
+img{
+  margin: 0 auto;
+  margin-top: -40px;
   box-shadow: 0 0 6px 2px #eee;
 }
 </style>
