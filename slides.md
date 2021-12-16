@@ -83,7 +83,9 @@ img{
 
 <style>
 img{
-  margin: 0 auto;
+  position: absolute;
+  right: 100px;
+  top: 150px;
   box-shadow: 0 0 6px 2px #eee;
 }
 </style>
@@ -202,7 +204,7 @@ Tsai YH, Bai S, Pu Liang P, Kolter JZ, Morency LP, Salakhutdinov R
 <style>
 img{
   position: absolute;
-  left: 420px;
+  right: 70px;
   top: 30px;
   box-shadow: 0 0 6px 2px #eee;
 }
