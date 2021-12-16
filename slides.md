@@ -42,15 +42,15 @@ img{
 layout: intro
 ---
 
-# SSE-FT
+# MulT
 
-## Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion
+## Multimodal Transformer for Unaligned Multimodal Language Sequences
 
-IEEE Access 2020
+Proc Conf Assoc Comput Linguist Meet 2019
 
-S. Siriwardhana, T. Kaluarachchi, M. Billinghurst and S. Nanayakkara
+Tsai YH, Bai S, Pu Liang P, Kolter JZ, Morency LP, Salakhutdinov R
 
-<a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206016">Paper Link</a>
+<a target="_blank" href="https://arxiv.org/pdf/1906.00295.pdf">Paper Link</a>
 
 ---
 
@@ -162,15 +162,15 @@ img{
 layout: intro
 ---
 
-# MulT
+# SSE-FT
 
-## Multimodal Transformer for Unaligned Multimodal Language Sequences
+## Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion
 
-Proc Conf Assoc Comput Linguist Meet 2019
+IEEE Access 2020
 
-Tsai YH, Bai S, Pu Liang P, Kolter JZ, Morency LP, Salakhutdinov R
+S. Siriwardhana, T. Kaluarachchi, M. Billinghurst and S. Nanayakkara
 
-<a target="_blank" href="https://arxiv.org/pdf/1906.00295.pdf">Paper Link</a>
+<a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206016">Paper Link</a>
 
 ---
 
