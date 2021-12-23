@@ -32,9 +32,9 @@ ACM MM 2021
 <main>
   <img src="/image-20211223162206776.png" alt="image-20211223162206776" style="zoom: 50%;" />
   <div class="text">
-    <p>(a) Text and image have inconsitent</p>
-    <p>(b) Text and images enhance each other by spotting the importenr features</p>
-    <p>(c) The embedded text in images provides complementary information for the original text</p>
+    <p>1. Text and images have inconsitent entities.</p>
+    <p>2. Text and images enhance each other by spotting the important features.</p>
+    <p>3. The embedded text in images provides complementary information for the original text.</p>
   </div>
 </main>
 
